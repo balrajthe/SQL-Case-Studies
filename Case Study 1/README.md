@@ -1,8 +1,8 @@
 # [8weeks-sql-challenge](https://8weeksqlchallenge.com/)
 
 # [Case Study 1 - Dannys Diner Case Study]
-<img src = "https://github.com/venkatasaikarthikeya/8weeks-sql-challenge/assets/34571463/bdc2bdfe-cbfd-4a4e-b520-b727bf2f2390" width = "250", height = "250">
-<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+
+<img src="https://github.com/balrajthe/SQL-Case-Studies/blob/main/Case%20Study%201/Danny's%20Diner.png" width=50% height=50%>
 
 
 # Introduction
