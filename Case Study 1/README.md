@@ -1,3 +1,5 @@
+# This case study has been taken from : 
+
 # [8weeks-sql-challenge](https://8weeksqlchallenge.com/)
 
 # [Case Study 1 - Dannys Diner Case Study]
